@@ -15,6 +15,10 @@ value_two = 32
 print(value_one + value_two)
 
 # 3.- Make a program that prints a sentence that includes at least 3 variables.
+name = "queenie"
+color = "blue"
+number = "16"
+print("I am " + name + " and my favourite colour is " + color + " and I have " + number + " pillows.")
 
 # 4.- Given a sentence, assign the string to a variable then print the number of 
 # characters in the sentence. 
