@@ -10,6 +10,9 @@ print(64+32)
 
 # 2.- Do the same as the question one but this time use variables instead of 
 # numbers.
+value_one = 64
+value_two = 32
+print(value_one + value_two)
 
 # 3.- Make a program that prints a sentence that includes at least 3 variables.
 
